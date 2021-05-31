@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "allowJs": true,
+    "allowJs":   true,
     "allowSyntheticDefaultImports": true,
     "jsx": "preserve",
     "lib": ["dom", "es2017"],
